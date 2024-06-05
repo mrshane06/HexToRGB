@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin:0;
+    background-color: rgba(0, 0, 0, 0.571);
+    text-align: center;
+    color: white;
+}
+
+body{
+    border: 1px solid;
+    margin: 250px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+input{
+    background-color: white;
+    width: 90px;
+    height: 20px;
+    color: black;
+}
+
+button{
+    width:110px;
+    height: 20px;
+    background-color: rgba(27, 26, 26, 0.562);
+}
